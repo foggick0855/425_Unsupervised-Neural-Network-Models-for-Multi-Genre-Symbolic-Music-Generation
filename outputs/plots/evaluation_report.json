@@ -1,0 +1,20 @@
+{
+  "AE (Task 1)": {
+    "rhythm_diversity": 0.5915515971646875,
+    "repetition_ratio": 0.0,
+    "pitch_entropy": 0.9480976451231544,
+    "pitch_histogram_distance": 0.4440980097520911
+  },
+  "VAE (Task 2)": {
+    "rhythm_diversity": 0.07304890394707092,
+    "repetition_ratio": 0.0,
+    "pitch_entropy": 0.9980874701751818,
+    "pitch_histogram_distance": 0.23283457929492016
+  },
+  "Transformer (Task 3)": {
+    "rhythm_diversity": 0.11184819088569775,
+    "repetition_ratio": 0.0028087119345619393,
+    "pitch_entropy": 0.8999639676930038,
+    "pitch_histogram_distance": 0.5656313059423367
+  }
+}

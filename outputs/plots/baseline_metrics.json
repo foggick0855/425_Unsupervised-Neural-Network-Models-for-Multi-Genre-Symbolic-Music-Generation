@@ -1,0 +1,20 @@
+{
+  "Random Generator": {
+    "rhythm_diversity": 0.071875,
+    "repetition_ratio": 0.0,
+    "pitch_entropy": 0.9535043611627092,
+    "pitch_histogram_distance": 0.42284772331425724
+  },
+  "Markov (1st ord)": {
+    "rhythm_diversity": 0.13365974409448816,
+    "repetition_ratio": 0.0,
+    "pitch_entropy": 0.9799842990255323,
+    "pitch_histogram_distance": 0.3691279997276715
+  },
+  "Markov (2nd ord)": {
+    "rhythm_diversity": 0.13056492938382702,
+    "repetition_ratio": 0.0,
+    "pitch_entropy": 0.9730733955104508,
+    "pitch_histogram_distance": 0.3230397685228075
+  }
+}

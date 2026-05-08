@@ -1,0 +1,50 @@
+{
+  "Random Generator": {
+    "val_loss": null,
+    "perplexity": null,
+    "rhythm_diversity": 0.0719,
+    "repetition_ratio": 0.0,
+    "pitch_histogram_distance": 0.4228,
+    "genre_control": "None"
+  },
+  "Markov (1st ord)": {
+    "val_loss": null,
+    "perplexity": null,
+    "rhythm_diversity": 0.1337,
+    "repetition_ratio": 0.0,
+    "pitch_histogram_distance": 0.3691,
+    "genre_control": "Weak"
+  },
+  "Markov (2nd ord)": {
+    "val_loss": null,
+    "perplexity": null,
+    "rhythm_diversity": 0.1306,
+    "repetition_ratio": 0.0,
+    "pitch_histogram_distance": 0.323,
+    "genre_control": "Weak"
+  },
+  "Task 1: AE": {
+    "val_loss": 0.0986,
+    "perplexity": null,
+    "rhythm_diversity": 0.5916,
+    "repetition_ratio": 0.0,
+    "pitch_histogram_distance": 0.4441,
+    "genre_control": "Single Genre"
+  },
+  "Task 2: VAE": {
+    "val_loss": 0.2251,
+    "perplexity": null,
+    "rhythm_diversity": 0.073,
+    "repetition_ratio": 0.0,
+    "pitch_histogram_distance": 0.2328,
+    "genre_control": "Moderate"
+  },
+  "Task 3: Transformer": {
+    "val_loss": 1.9281,
+    "perplexity": 6.88,
+    "rhythm_diversity": 0.1118,
+    "repetition_ratio": 0.0028,
+    "pitch_histogram_distance": 0.5656,
+    "genre_control": "Strong"
+  }
+}
