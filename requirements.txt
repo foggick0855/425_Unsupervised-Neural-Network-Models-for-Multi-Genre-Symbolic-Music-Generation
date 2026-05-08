@@ -1,0 +1,21 @@
+# Core ML
+torch>=2.0.0          # install CUDA build separately: pip install torch --index-url https://download.pytorch.org/whl/cu128
+numpy>=2.0.0
+scikit-learn>=1.3.0
+
+# MIDI processing
+pretty_midi>=0.2.10
+miditok>=3.0.6
+mido>=1.3.0           # dependency of pretty_midi / miditok
+symusic>=0.6.0        # required by miditok tokenizer
+# music21>=9.0.0      # optional: key estimation in metrics.py (install separately if needed)
+
+# Visualisation & notebooks
+matplotlib>=3.7.0
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.0.0
+PyYAML>=6.0
